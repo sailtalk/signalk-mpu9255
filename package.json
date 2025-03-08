@@ -1,0 +1,25 @@
+{
+  "name": "signalk-mpu9255",
+  "version": "1.0.0",
+  "description": "SignalK plugin for MPU9255 9-axis motion sensor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "signalk-node-server-plugin",
+    "signalk",
+    "motion",
+    "mpu9255",
+    "mpu6050"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "i2c-bus": "^5.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sailtalk/signalk-mpu9255.git"
+  }
+} 
